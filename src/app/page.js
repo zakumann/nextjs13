@@ -5,6 +5,7 @@ export default function Home() {
     <>
     <h2>Welcome</h2>
     Hello, Web!
+    <img src="/icon.png" ></img>
     </>
   )
 }
